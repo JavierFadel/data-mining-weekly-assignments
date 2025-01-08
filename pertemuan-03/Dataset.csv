@@ -1,0 +1,11 @@
+;country;age;salary;purchased
+1;France;44;72000;no
+2;Spain;27;48000;yes
+3;Germany;30;54000;no
+4;Spain;38;61000;no
+5;Germany;40;;yes
+6;France;35;58000;yes
+7;Spain;;52000;no
+8;France;48;79000;yes
+9;Germany;50;83000;no
+10;France;37;67000;yes
